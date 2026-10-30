@@ -9,7 +9,7 @@ cout<<n <<"*" <<i <<"= "<<n*i<<endl;
 }
 int main()
 {
-cout<<"Enter a number for a table: ";
+cout<<"Enter a number for your desired table: ";
 int n;
 cin>>n;
 printMultiplicationTable(n);
