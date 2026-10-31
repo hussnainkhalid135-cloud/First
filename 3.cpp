@@ -1,4 +1,4 @@
-printMultiplicationTable(int n)
+
 {
 cout<<"Table of "<<n <<" is "<<endl;
 for(int i=100; i>=100; i--)
