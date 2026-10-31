@@ -3,18 +3,14 @@ using namespace std;
 printMultiplicationTable(int n)
 {
 cout<<"Table of "<<n <<" is "<<endl;
-for(int i=1; i<=10; i++)
+for(int i=100; i>=100; i--)
 {
 cout<<n <<"*" <<i <<"= "<<n*i<<endl;
 }
 cout<<endl;
-  
-cout<<end
 }
 int main()
 {
-  
-cout<<endl;
 for(int i=1; i<=10; i++)
 {
 printMultiplicationTable(i);
