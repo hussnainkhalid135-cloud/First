@@ -11,6 +11,8 @@ cout<<endl;
 }
 int main()
 {
+
+cout<<end
 for(int i=1; i<=10; i++)
 {
 printMultiplicationTable(i);
