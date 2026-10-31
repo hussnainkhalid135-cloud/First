@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-square(int &arr[])
+square(int &arr[]) retutn 0
 {
 int square=arr[i] * arr[i];
 cout<<"Square is "<<square;
@@ -36,5 +36,6 @@ cin>>c;
 sum(arr , h);
 average(a , b , c);
 square(h);
-return 0;
+
+  
 }
