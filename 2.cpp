@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-square(int &arr[]) retutn 0
+
 {
 int square=arr[i] * arr[i];
 cout<<"Square is "<<square;
