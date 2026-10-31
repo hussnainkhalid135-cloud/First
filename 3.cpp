@@ -1,5 +1,3 @@
-#include<iostream>
-using namespace std;
 printMultiplicationTable(int n)
 {
 cout<<"Table of "<<n <<" is "<<endl;
