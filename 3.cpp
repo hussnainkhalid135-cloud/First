@@ -8,9 +8,13 @@ for(int i=1; i<=10; i++)
 cout<<n <<"*" <<i <<"= "<<n*i<<endl;
 }
 cout<<endl;
+  
+cout<<end
 }
 int main()
 {
+  
+cout<<endl;
 for(int i=1; i<=10; i++)
 {
 printMultiplicationTable(i);
